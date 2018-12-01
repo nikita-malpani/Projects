@@ -1,0 +1,13 @@
+#cointainer{
+    background: #5bd999;
+    margin: 0;
+    height: 100%;
+    max-width:100%;
+}
+#containerdiv{
+    background: #F8F8F8;
+    max-width: 480px;
+    margin-top: 10%;
+    height: 400px;
+    padding: 40px;
+}
